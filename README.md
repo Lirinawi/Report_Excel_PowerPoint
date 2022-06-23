@@ -1,2 +1,2 @@
-# samples
-Examples of automating regular reports
+# sample
+Example of automating regular report
